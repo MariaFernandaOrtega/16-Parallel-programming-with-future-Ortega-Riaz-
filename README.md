@@ -1,4 +1,4 @@
-## Workshop materials on Parallel Programming (to update)
+## Workshop materials on Parallel Programming 
 
 
 ## Summary
